@@ -6,7 +6,7 @@ const SocialsContainer = styled.ul`
   display: flex;
   align-items: baseline;
   li {
-    padding: 0 20rem;
+    padding: 0 2rem;
   }
 `;
 const Social = styled.a`

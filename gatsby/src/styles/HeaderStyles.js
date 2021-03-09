@@ -175,14 +175,12 @@ const MenuStyles = styled.nav`
 
   a {
     display: block;
-    padding: 2rem 1.5rem;
+    padding: 1rem ;
     line-height: 1em;
     font-size: 2rem;
     color: #fff;
     text-decoration: none;
-      @media (min-width: 980px) {
 
-      }
       color: #06c;
       border: 0 !important;
 
